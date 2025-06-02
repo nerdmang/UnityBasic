@@ -1174,8 +1174,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.06928816, y: -0.92648536, z: 0.18765847, w: -0.31876072}
-  m_LocalPosition: {x: -15.255409, y: 25.337233, z: 43.42347}
+  m_LocalRotation: {x: -0.105927914, y: -0.89091426, z: 0.24520117, w: -0.3673249}
+  m_LocalPosition: {x: -11.001992, y: 24.616869, z: 41.787785}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2354,7 +2354,7 @@ GameObject:
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
